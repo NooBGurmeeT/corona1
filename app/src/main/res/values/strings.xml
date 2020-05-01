@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">corona1</string>
+    <string name="corona_livecounts">corona livecounts</string>
+    <string name="corona_information">corona information</string>
+    <string name="stay_home_stay_safe">stay home,stay safe</string>
+    <string name="self_checkup">self checkup</string>
+    <string name="corona3">corona3</string>
+</resources>
